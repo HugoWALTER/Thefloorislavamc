@@ -1,0 +1,36 @@
+#COORD
+lobbyx: -263
+lobbyy: 82
+lobbyz: 1150
+
+
+arena0x: 1
+arena0y: 2
+arena0z: 3
+
+arena1x: 4
+arena1y: 5
+arena1z: 6
+
+arena2x: 7
+arena2y: 8
+arena2z: 9
+
+arena3x: 10
+arena3y: 11
+arena3z: 12
+
+arena4x: 13
+arena4y: 14
+arena4z: 15
+
+arena5x: 16
+arena5y: 17
+arena5z: 18
+
+maxarenas: 6
+ 
+
+
+#DEFINE WORLD FOR LOBBY
+World: world

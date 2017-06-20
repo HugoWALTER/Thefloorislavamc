@@ -1,0 +1,9 @@
+name: Floorislava
+main: fr.sayro.Sayro.main
+author: SayR0
+version: 1.0
+description: >
+             The Floor is Lava by SayR0.
+commands:
+   tfil:
+     description: Commands of the The Floor is Lava
